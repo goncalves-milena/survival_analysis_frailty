@@ -10,7 +10,7 @@
 
 ## 📌 Objetivo
 
-Este repositório reúne os dados, scripts e resultados do estudo que teve como objetivo identificar os fatores que influenciam a adesão de políticas públicas da área da saúde por municípios brasileiros. O modelo adotado foi o **Modelo de Fragilidade Compartilhada**, que considera eventos múltiplos e dependência entre os tempos de adoção em um mesmo município.
+Este repositório reúne informações (e em breve os scripts e dados) do estudo que teve como objetivo identificar os fatores que influenciam a adesão de políticas públicas da área da saúde por municípios brasileiros. O modelo adotado foi o **Modelo de Fragilidade Compartilhada**, que considera eventos múltiplos e dependência entre os tempos de adoção em um mesmo município.
 
 ---
 
@@ -116,16 +116,6 @@ As covariáveis foram organizadas em 4 dimensões principais, além de variávei
 ## ✅ Ajuste do Modelo
 
 - A curva empírica dos resíduos de Cox-Snell se mostrou próxima da curva teórica, indicando **bom ajuste do modelo**.
-
----
-
-## 🤝 Como Contribuir
-
-Sinta-se à vontade para:
-
-- Explorar os scripts e dados disponíveis neste repositório.
-- Criar issues com sugestões ou dúvidas.
-- Enviar pull requests com correções ou melhorias.
 
 ---
 
